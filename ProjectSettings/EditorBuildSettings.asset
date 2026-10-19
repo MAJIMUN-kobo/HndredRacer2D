@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_HandredRacer2D/Scenes/TitleScene.unity
+    guid: a6c7fba3a62c4dd42a091d8c56baf622
+  - enabled: 1
+    path: Assets/_HandredRacer2D/Scenes/GameScene.unity
+    guid: 44a34d5f6c0dc2d42ac8c0997d167151
+  - enabled: 1
+    path: Assets/_HandredRacer2D/Scenes/ClearScene.unity
+    guid: dbe8e43cf8f0d3e499ac6b3e7b454207
+  - enabled: 1
+    path: Assets/_HandredRacer2D/Scenes/OverScene.unity
+    guid: 7a8005d49b8771149b4843c48ca34321
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:
